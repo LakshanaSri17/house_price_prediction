@@ -5,7 +5,7 @@ This project involves predicting house prices using a dataset containing various
 
 Installation
 
-1.Clone the repository: git clone https://github.com/yourusername/iris-linear-regression.git
+1.Clone the repository: git clone https://github.com/LakshanaSri17/house_price_prediction.git
 2.Install the required libraries: pip install -r requirements.txt
 
 Project Steps
